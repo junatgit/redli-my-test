@@ -54,3 +54,5 @@ Redli is released under the Apache 2 License.
 Attribution: The `commands.json` file is by Salvatore Sanfillipo.
 
 In the process of building the application, the commands.json file of the Redis-docs repository is retrieved and incorporated into the code. This file is distributed under a CC-BY-SA 4.0 license (see [Copyright](https://github.com/antirez/redis-doc/blob/master/COPYRIGHT)).
+
+
